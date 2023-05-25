@@ -1,4 +1,10 @@
 ### Hi there 👋
+Still Learning ~_~
+<p align="center">
+  <a href="https://github.com/wervlad">
+    <img src="https://komarev.com/ghpvc/?username=animeshack&color=blue&style=flat)" />
+  </a>
+</p>
 
 <!--
 **animeshack/animeshack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
